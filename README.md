@@ -50,7 +50,7 @@ The below are packages required for this project
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/hippymitty/NCFileConverter.git
    ```
 2. Install packages as mentioned above
    ```sh
